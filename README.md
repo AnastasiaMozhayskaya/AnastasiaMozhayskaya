@@ -1,6 +1,6 @@
 ### Привет! Я - Анастасия Можайская 👋
 
-Сфера моей деятельности - Data Science
+Интересуюсь data science, data analitic
 
 ### 🌐 Стек технологий <br>
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
