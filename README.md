@@ -1,6 +1,6 @@
 ### Привет! Я - Анастасия Можайская 👋
 
-Сфера моей деятельности - Data Scientist/ Data analitic
+Сфера моей деятельности - Data Science
 
 ### Стек технологий <br>
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
@@ -12,5 +12,11 @@
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-### Контакты <br>
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+### 📫 Контакты <br>
+<a href="https://www.linkedin.com/in/egorakula/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="The Unlimited" width="120"/>
+</a>
+
+<a href="https://t.me/egorakula" target="_blank">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="The Unlimited" width="120"/>
+</a>
